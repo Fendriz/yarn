@@ -1,0 +1,11 @@
+{
+  "name": "yarnModule",
+  "version": "1.0.0",
+  "description": "learn about yarn",
+  "main": "index.js",
+  "author": "Torgeir Haugum",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
